@@ -4,6 +4,8 @@ Auto-steal, auto-collect, anti-hit, infinite yield, and more.
 Tested on Solara / Fluxus / Wave executors.  
 Made with love (and zero brain cells) by R2-D2.
 
+**Latest:** v0.2.1 — Optimized with `task.spawn`, distance safety, anti-teleport-ban protection.
+
 ## Installation
 1. Download the repo
 2. Open your favorite Roblox executor
